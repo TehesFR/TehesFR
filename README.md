@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I am Thiébaud </h1>
 <h3 align="center">Site Reliability Engineer (SRE) at Swile | Cloud Native and Kubernetes enthusiast </h3>
 
+🎓  Docker / AWS / Kubernetes certified.
+
 ### ✌️  &nbsp;Connect with Me
 <p>
 <a href="https://www.linkedin.com/in/thiebaudschmittlin/"><img src="https://img.shields.io/badge/-Thiébaud%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
