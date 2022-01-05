@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I am Thiébaud </h1>
-<h3 align="center">Site Reliability Engineer (SRE) at Swile | Cloud Native and Kubernetes enthusiast </h3>
+<h3 align="center">Site Reliability Engineer (SRE) at <a href="https://www.swile.co/">Swile</a> | Cloud Native and Kubernetes enthusiast </h3>
 
 🎓  Docker / AWS / Kubernetes certified.
 
